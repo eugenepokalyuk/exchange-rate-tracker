@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exchange-rate-tracker/static/css/main.e152b846.css",
+    "main.js": "/exchange-rate-tracker/static/js/main.242f0609.js",
+    "static/js/787.bf949977.chunk.js": "/exchange-rate-tracker/static/js/787.bf949977.chunk.js",
+    "static/media/logo.svg": "/exchange-rate-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/exchange-rate-tracker/index.html",
+    "main.e152b846.css.map": "/exchange-rate-tracker/static/css/main.e152b846.css.map",
+    "main.242f0609.js.map": "/exchange-rate-tracker/static/js/main.242f0609.js.map",
+    "787.bf949977.chunk.js.map": "/exchange-rate-tracker/static/js/787.bf949977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e152b846.css",
+    "static/js/main.242f0609.js"
+  ]
+}
